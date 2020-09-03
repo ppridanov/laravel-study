@@ -1,0 +1,21 @@
+body {
+    background: #fff;
+}
+nav {
+    margin-bottom: 15px;
+}
+.card {
+    margin-bottom: 10px;
+}
+.card-img {
+    background-position: center;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+
+}
+
+.card-img .card-offer {
+    margin-bottom: 10px;
+}
